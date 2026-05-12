@@ -27,8 +27,8 @@ Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escal
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRampazzo-fut/JoaoRampazzo-fut/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/JoaoRampazzo-fut/JoaoRampazzo-fut/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRampazzo/JoaoRampazzo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/JoaoRampazzo/JoaoRampazzo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
