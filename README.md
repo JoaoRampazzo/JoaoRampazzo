@@ -25,12 +25,11 @@ Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escal
 
 ### 🐍 My Contributions Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRampazzo/JoaoRampazzo-fut/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/JoaoRampazzo/JoaoRampazzo-fut/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaorampazzo-fut/joaorampazzo-fut/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaorampazzo-fut/joaorampazzo-fut/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaorampazzo-fut/joaorampazzo-fut/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
