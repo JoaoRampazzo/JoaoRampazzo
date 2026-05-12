@@ -46,8 +46,3 @@ Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escal
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoRampazzo&color=6366F1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-```
