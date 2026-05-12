@@ -17,7 +17,7 @@ Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escal
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,bootstrap,git,docker,linux,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,postgres,mysql,bootstrap,git,docker,html,css" />
   </a>
 </div>
 
