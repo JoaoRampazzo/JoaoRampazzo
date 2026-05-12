@@ -23,3 +23,31 @@ Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escal
     <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,bootstrap,git,docker,linux,html,css" />
   </a>
 </div>
+
+---
+
+### 🐍 My Contributions Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRampazzo/JoaoRampazzo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/JoaoRampazzo/JoaoRampazzo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jprampazzo197/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoRampazzo&color=6366F1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+```
