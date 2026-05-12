@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escaláveis. Atualmente, atuo no ecossistema PHP (Laravel) e frameworks modernos de JavaScript (Vue.js), buscando sempre transformar desafios complexos em sistemas simplificados de alta qualidade técnica.
+Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escaláveis. Atualmente, atuo no ecossistema PHP (Laravel), buscando sempre transformar desafios complexos em sistemas simplificados de alta qualidade técnica.
 
 - 💼 Atualmente trabalhando em soluções para e-commerce na **FutFanatics**.
 - 🌍 Apaixonado por arquitetura de software e performance.
