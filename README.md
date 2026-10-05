@@ -8,7 +8,7 @@
 
 Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escaláveis. Atualmente, atuo no ecossistema PHP (Laravel), buscando sempre transformar desafios complexos em sistemas simplificados de alta qualidade técnica.
 
-- 💼 Atualmente trabalhando como analista de sistemas na operadora de saúde na **OesteSáude**.
+- 💼 Atualmente trabalhando como analista de sistemas na operadora de saúde na **OesteSaúde**.
 - 🌍 Apaixonado por arquitetura de software e performance.
 
 ---
